@@ -1,0 +1,8 @@
+# secrets / tokens (never commit)
+credentials.json
+token.json
+.env
+# local artifacts
+*.xlsx
+__pycache__/
+*.pyc
